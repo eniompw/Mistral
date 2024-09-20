@@ -2,6 +2,10 @@
 
 Examples of Mistral API using Python REST / curl   
 
+* [text query](rest.py)
+* [image by url](image_url.py)
+* [image by base64](image_base64.py)
+
 Based on:
 * [Mistral AI API Quickstart](https://docs.mistral.ai/getting-started/quickstart)
 * [Mistral Vision](https://docs.mistral.ai/capabilities/vision)
